@@ -1,4 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Recyclerview</string>
     <string name="contacts_list_title">Contacts</string>
 </resources>
